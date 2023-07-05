@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Problem Statement</string>
+    <string name="song_title">Song Title</string>
+    <string name="enter_song_title_here">Enter song title here</string>
+    <string name="singer">Singer</string>
+    <string name="enter_singers_name_here">Enter singers\' name here</string>
+    <string name="year">Year</string>
+    <string name="release">Enter year of release here</string>
+    <string name="star">Stars</string>
+    <string name="insert">INSERT</string>
+    <string name="show_list">SHOW LIST</string>
+    <string name="back">BACK</string>
+</resources>
