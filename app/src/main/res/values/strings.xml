@@ -10,4 +10,15 @@
     <string name="insert">INSERT</string>
     <string name="show_list">SHOW LIST</string>
     <string name="back">BACK</string>
+    <string name="show_all_songs_with_5_stars">SHOW ALL SONGS WITH 5 STARS</string>
+    <string name="showAllSong">Show all songs\n</string>
+    <string name="show5StarSong">Show all songs with 5 stars</string>
+    <string name="btnUpdate">UPDATE</string>
+    <string name="btnDelete">DELETE</string>
+    <string name="btnCancel">CANCEL</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
 </resources>
